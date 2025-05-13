@@ -16,7 +16,7 @@ export let options = {
 export default function () {
     const res = http.get('http://localhost:3050/phoenix/v1/tokens/verify', {
         headers: {
-            authorization: "iExthsCte4W+f4Dctbtgzbwn6EMjov3+0+yVqGaDPkRjoAe8DWNejqXYS+jMM1CjGtEF/K+uZSlAq6/5inMDI3zUUmJWV/cXJnwH+QoQJDUL1hmydZPQJ2CEKdyHq+bnlRWw9PGLLWJ+A+lroAG5YjYDyGNX0bPJpGLDgTPzbjIMpkr9jzMNqLCwhyWkMEJXOSuQjtT/QJExNYLQPYs3jQFsJxt17m9WqyMXrEvjeehohsVzm0m3au/tOlYRMaWCEo3SAU5UJaVIZSKOpAPzPF03vu5SIOTR1Cdj4ysIR6IbGApB5xxG3a8+BJBhWnLqGom9NdmOWDeg5ax14liXy86M+35Pl1Ny6qT+RdzC9sk="
+            authorization: ""
         }
     });
 
