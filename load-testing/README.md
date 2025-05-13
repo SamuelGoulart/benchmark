@@ -25,8 +25,7 @@ Este projeto configura um ambiente completo para testes de carga usando o [K6](h
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/SamuelGoulart
 ```
 
 ### 2. Suba os containers com Docker
