@@ -95,7 +95,7 @@ docker-compose down
 
 ## 🖼️ Exemplo de Dashboard
 
-![Dashboard K6 no Grafana](./dashboard-preview.png)
+![Dashboard K6 no Grafana](https://github.com/user-attachments/assets/9960e2a1-c2ca-4a21-983d-212f5a66769b)
 
 ---
 
@@ -104,6 +104,3 @@ docker-compose down
 * Certifique-se de que o endpoint `http://localhost:3050/phoenix/v1/tokens/verify` esteja disponível localmente.
 * Você pode alterar o script `k6-test.js` conforme necessário.
 
----
-
-Se quiser, posso gerar a imagem preview do dashboard (`dashboard-preview.png`) a partir do screenshot que você me enviou. Deseja isso?
